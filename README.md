@@ -7,6 +7,8 @@ Include complete code and output ppm file for each chapter and section.
 
 Final output (image_width = 600, sample_per_pixel = 200, max_depth = 50)
 
+![](chapter10.png)
+
 # Description
 
 example: 
